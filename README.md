@@ -1,5 +1,4 @@
 
-
 # **ETH to BTC Converter DApp**
 
 A decentralized application (dApp) built with React and Web3.js that allows users to convert between Ethereum (ETH) and Bitcoin (BTC) using real-time data from Chainlink Price Feeds.
@@ -35,47 +34,47 @@ Before you begin, ensure you have the following:
 ## **Installation**
 
 ### 1. **Clone the Repository**
-   Clone the project to your local machine:
-   ```bash
-   git clone https://github.com/your-username/eth-btc-converter-dapp.git
-   cd eth-btc-converter-dapp
-   ```
+    Clone the project to your local machine:
+    ```bash
+    git clone https://github.com/jovells/bounty-accra.git
+    cd eth-btc-converter-dapp
+    ```
 
 ### 2. **Install Dependencies**
-   Install the required npm packages:
-   ```bash
-   npm install
-   ```
+    Install the required npm packages:
+    ```bash
+    npm install
+    ```
 
 ### 3. **Start the Application**
-   Run the application in development mode:
-   ```bash
-   npm start
-   ```
+    Run the application in development mode:
+    ```bash
+    npm start
+    ```
 
 ### 4. **Open the Application**
-   Open your browser and navigate to:
-   ```
-   http://localhost:3000
-   ```
+    Open your browser and navigate to:
+    ```
+    http://localhost:3000
+    ```
 
 ## **Usage**
 
 1. **Connect MetaMask:**
-   - Ensure that MetaMask is installed in your browser and connected to the Ethereum network.
-   - Approve the connection request when prompted by the application.
+    - Ensure that MetaMask is installed in your browser and connected to the Ethereum network.
+    - Approve the connection request when prompted by the application.
 
 2. **Select Cryptocurrency:**
-   - Choose whether you want to convert from ETH to BTC or vice versa using the dropdown selector.
+    - Choose whether you want to convert from ETH to BTC or vice versa using the dropdown selector.
 
 3. **Enter Amount:**
-   - Input the amount of cryptocurrency you want to convert.
+    - Input the amount of cryptocurrency you want to convert.
 
 4. **Convert:**
-   - Click the "Convert" button to see the equivalent value in the other cryptocurrency.
+    - Click the "Convert" button to see the equivalent value in the other cryptocurrency.
 
 5. **View Results:**
-   - The conversion result will be displayed below the input fields.
+    - The conversion result will be displayed below the input fields.
 
 ## **Technologies Used**
 
