@@ -28,7 +28,7 @@ body {
 
 h2 {
   font-size: 2rem;
-  margin-bottom: 30px;
+  margin-bottom: 0px;
   color: #ffcc00;
   text-transform: uppercase;
   letter-spacing: 1.5px;
@@ -36,9 +36,9 @@ h2 {
 }
 
 p {
-  margin: 10px 0;
+  margin: 5px 0;
     font-size: 1rem;
-  color: #e0e0e0;
+  color: #a09e9e;
 }
 
 input[type="number"] {
@@ -58,7 +58,7 @@ select {
     border: 2px solid #ffcc00;
     border-radius: 8px;
     width: 100%;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     box-sizing: border-box;
     color: #333333;
     background-color: #ffffff;
@@ -68,6 +68,7 @@ select {
 button {
   padding: 12px;
   border: none;
+  margin-top: 15px;
   border-radius: 8px;
     background-color: #ffcc00;
     color: #333333;
@@ -94,4 +95,21 @@ p.conversion-result {
     font-size: 1.2rem;
     color: #ffcc00;
     font-weight: 500;
+}
+
+footer {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+footer a {
+  color: #ffcc00;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer a:hover {
+  text-decoration: underline;
 }
